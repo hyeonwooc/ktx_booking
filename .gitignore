@@ -1,0 +1,7 @@
+config.json
+CODESPACE_PROMPT.md
+_to_delete/
+__pycache__/
+*.pyc
+.venv/
+venv/
